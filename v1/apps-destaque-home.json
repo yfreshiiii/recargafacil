@@ -1,0 +1,32 @@
+{
+	"content": {
+		"app1": {
+			"name": "videmate",
+			"package": "com.video.fun.app",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"version": "5",
+			"img": "https://evoluri.com/app/img/blue-tv-bg2.png",
+			"color": "#0278fe",
+			"click": true
+		},
+		"app2": {
+			"name": "tvEx",
+			"package": "com.tvex.app",
+			"url": "https://maxestevam.github.io/tvex.apk",
+			"version": "4",
+			"img": "https://evoluri.com/app/img/mfc-white-bg.png",
+			"color": "#c64227",
+			"click": true
+		},
+		"app3": {
+			"name": "tvEx 2",
+			"package": "com.tvex2.app",
+			"url": "https://maxestevam.github.io/tvex.apk",
+			"version": "2",
+			"img": "https://evoluri.com/app/img/mfc-white-bg.png",
+			"color": false,
+			"click": false
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,44 @@
+{
+	"content": {
+		"banner1": {
+			"img": {
+				"mobile": "https://placehold.co/576x380/008be1/FFFFFF/png?text=Banner%201%20Mobile",
+				"tablet": "https://placehold.co/768x384/008be1/FFFFFF/png?text=Banner%201%20Tablet",
+				"desktop": "https://placehold.co/1024x512/b95d12/FFFFFF/png?text=Banner%203%20Desktop",
+				"tvbox": "https://placehold.co/1920x960/b95d12/FFFFFF/png?text=Banner%203%20TvBox"
+			},
+			"url": {
+				"source": "com.whatsapp.com",
+				"type": "app"
+			},
+			"click": true
+		},
+		"banner2": {
+			"img": {
+				"mobile": "https://placehold.co/576x380/12b939/FFFFFF/png?text=Banner%202%20Mobile",
+				"tablet": "https://placehold.co/768x384/12b939/FFFFFF/png?text=Banner%202%20Tablet",
+				"desktop": "https://placehold.co/1024x512/12b939/FFFFFF/png?text=Banner%202%20Desktop",
+				"tvbox": "https://placehold.co/1920x960/12b939/FFFFFF/png?text=Banner%202%20TvBox"
+			},
+			"url": {
+				"source": "https://maxestevam.github.io/",
+				"type": "link"
+			},
+			"click": true
+		},
+		"banner3": {
+			"img": {
+				"mobile": "https://placehold.co/576x380/b95d12/FFFFFF/png?text=Banner%203%20Mobile",
+				"tablet": "https://placehold.co/768x384/b95d12/FFFFFF/png?text=Banner%203%20Tablet",
+				"desktop": "https://placehold.co/1024x512/b95d12/FFFFFF/png?text=Banner%203%20Desktop",
+				"tvbox": "https://placehold.co/1920x960/b95d12/FFFFFF/png?text=Banner%203%20TvBox"
+			},
+			"url": {
+				"source": "com.video.fun.app",
+				"type": "app"
+			},
+			"click": true
+		}
+	},
+	"interval": 3000
+}
