@@ -36,12 +36,9 @@
 	},
 	"banners": {
 		"imgs": {
-			"bn1": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/1.png",
-			"bn2": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/2.png",
-			"bn3": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/3.png",
-			"bn4": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/4.png"
+			"bn1": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/6.png"
 		},
 		"interval": 3000
 	},
-	"version": 0
+	"version": 1
 }
