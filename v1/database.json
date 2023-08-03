@@ -1,0 +1,47 @@
+{
+	"logo": "https://yfreshiiii.github.io/recargafacil/v1/img/logo-512.png",
+	"destaques": {
+		"app1": {
+			"name": "hd_video_downloader",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"package": "com.video.fun.app",
+			"version": 51104
+		},
+		"app2": {
+			"name": "hd_video_downloader",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"package": "com.video.fun.app",
+			"version": 51104
+		}
+	},
+	"apps": {
+		"app1": {
+			"name": "hd_video_downloader",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"package": "com.video.fun.app",
+			"version": 51104
+		},
+		"app2": {
+			"name": "hd_video_downloader",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"package": "com.video.fun.app",
+			"version": 51104
+		},
+		"app3": {
+			"name": "hd_video_downloader",
+			"url": "https://maxestevam.github.io/VidMate%20-%20HD%20Video%20Downloader%20&%20Live%20TV_5.1104_Apkpure.apk",
+			"package": "com.video.fun.app",
+			"version": 51104
+		}
+	},
+	"banners": {
+		"imgs": {
+			"bn1": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/1.png",
+			"bn2": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/2.png",
+			"bn3": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/3.png",
+			"bn4": "https://yfreshiiii.github.io/recargafacil/v1/banners/1200x600/4.png"
+		},
+		"interval": 3000
+	},
+	"version": 0
+}
